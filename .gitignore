@@ -1,0 +1,11 @@
+# Python cache and venv
+__pycache__/
+venv/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
